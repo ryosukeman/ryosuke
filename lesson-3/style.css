@@ -1,0 +1,104 @@
+.zentai {
+  width: 400px;
+  height: 450px;
+}
+
+.ue {
+  width: 400px;
+  height: 100px;
+  background-color: #141f40;
+}
+
+.naka {
+  width: 160px;
+  height: 60px;
+  background-color: white;
+  position: relative;
+  left: 220px;
+  top: 20px;
+}
+
+.a1 {
+  width: 40px;
+  height: 40px;
+  background-color: #a9004b;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  display: inline-block;
+}
+
+.b2 {
+  width: 40px;
+  height: 40px;
+  float: left;
+  background-color: #a9004b;
+  position: absolute;
+  top: 10px;
+  left: 60px;
+}
+
+.c3 {
+  width: 40px;
+  height: 40px;
+  float: left;
+  background-color: #a9004b;
+  position: absolute;
+  top: 10px;
+  left: 110px;
+}
+
+.hidari {
+  width: 150px;
+  height: 250px;
+  background-color: #80bfa8;
+  float: left;
+}
+
+.migi {
+  width: 250px;
+  height: 250px;
+  background-color: #8c2727;
+  float: left;
+  position: relative;
+}
+
+.a {
+  border: solid white 5px;
+  width: 140px;
+  height: 40px;
+  background-color: #ff863f;
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  display: inline-block;
+}
+
+.b {
+  border: solid white 5px;
+  width: 140px;
+  height: 40px;
+  float: left;
+  background-color: #ff863f;
+  position: absolute;
+  top: 100px;
+  left: 40px;
+}
+
+.c {
+  border: solid white 5px;
+  width: 140px;
+  height: 40px;
+  float: left;
+  background-color: #ff863f;
+  position: absolute;
+  top: 160px;
+  left: 40px;
+}
+
+.sita {
+  width: 400px;
+  height: 100px;
+  background-color: #d98d30;
+  float: left;
+}
